@@ -21,6 +21,10 @@ After rotating the variables,store the rotated variables in
 a separate list.
 ### Step 6: 
 At last,print the list of rotated variables.
+
+
+
+
 ## Program:
 ```
 #Program to circulate N values.
