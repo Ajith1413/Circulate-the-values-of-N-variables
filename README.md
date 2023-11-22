@@ -13,18 +13,11 @@ Get the variables from user to enter inside the list.
 Get the value from the user for the number of rotation.
 ### Step 4: 
 Using the slicing concept rotate the list.
-
-
-
 ### Step 5: 
 After rotating the variables,store the rotated variables in 
 a separate list.
 ### Step 6: 
 At last,print the list of rotated variables.
-
-
-
-
 ## Program:
 ```
 #Program to circulate N values.
